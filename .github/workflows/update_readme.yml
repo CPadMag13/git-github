@@ -1,0 +1,20 @@
+name: Update README 2
+on:
+  schedule:
+    # Runs every hour
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  # update-readme-with-youtube:
+  build:
+    name: Update profile README 2
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+    # with:
+    #  max_post_count: "5"
+    #  comment_tag_name: "YOUTUBE"
+    #  feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPy6Al_j2U1Jv4sLCzF37xQ"
