@@ -92,7 +92,6 @@ Puedes verla [aquí](/Paquete/).
 
 ### :zap: Actividad Reciente
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 
