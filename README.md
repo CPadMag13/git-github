@@ -92,8 +92,8 @@ Puedes verla [aquí](/Paquete/).
 
 ### :zap: Actividad Reciente
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/CPadMag13/miQuintoRepo/releases/tag/v0.1.0) in [CPadMag13/miQuintoRepo](https://github.com/CPadMag13/miQuintoRepo)
-2. 🎉 Merged PR [#3](https://github.com/CPadMag13/miCuartoRepo/pull/3) in [CPadMag13/miCuartoRepo](https://github.com/CPadMag13/miCuartoRepo)
+1. 🎉 Merged PR [#1](https://github.com/CPadMag13/supabase-fundamentos/pull/1) in [CPadMag13/supabase-fundamentos](https://github.com/CPadMag13/supabase-fundamentos)
+2. 💪 Opened PR [#1](https://github.com/CPadMag13/supabase-fundamentos/pull/1) in [CPadMag13/supabase-fundamentos](https://github.com/CPadMag13/supabase-fundamentos)
 3. 💪 Opened PR [#3](https://github.com/CPadMag13/miCuartoRepo/pull/3) in [CPadMag13/miCuartoRepo](https://github.com/CPadMag13/miCuartoRepo)
 4. 🎉 Merged PR [#2](https://github.com/CPadMag13/miCuartoRepo/pull/2) in [CPadMag13/miCuartoRepo](https://github.com/CPadMag13/miCuartoRepo)
 5. 💪 Opened PR [#2](https://github.com/CPadMag13/miCuartoRepo/pull/2) in [CPadMag13/miCuartoRepo](https://github.com/CPadMag13/miCuartoRepo)
